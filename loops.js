@@ -15,9 +15,9 @@ function whileLoop(number) {
   return "done"
 }
 
-function dowhileLoop(array)
-  i = i + 1
+function dowhileLoop(array){
   do {
     array.shift
   }
   while array.length > 0 && incrementVariable()
+}
