@@ -17,7 +17,6 @@ function whileLoop(number) {
 
 incrementVariable() == (i = i + 1)
 function doWhileLoop(array){
-  
   do {
     array.shift()
   }
