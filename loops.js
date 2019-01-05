@@ -16,10 +16,10 @@ function whileLoop(number) {
 }
 
 function doWhileLoop(array){
-  var incrementVariable == (i = i + 1)
   do {
     array.shift()
   }
+  incrementVariable() {i = i + 1}
   while (array.length > 0 && incrementVariable());
 return array
 }
