@@ -14,3 +14,10 @@ function whileLoop(number) {
   }
   return "done"
 }
+
+function dowhileLoop(array)
+  i = i + 1
+  do {
+    array.shift
+  }
+  while array.length > 0 && incrementVariable()
